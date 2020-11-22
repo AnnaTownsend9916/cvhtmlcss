@@ -1,0 +1,51 @@
+
+        body {
+            background-color: #EAF6F6;
+        }
+        hr {
+            border-style: none;
+            border-top-style: dotted;
+            width: 5%;
+            border-color: #61c0bf;
+            border-width: 5px;
+            
+        
+
+        }
+        img{
+            height: 25%;
+        }
+
+        h1 {
+            color:#66BFBF;
+            font-family: 'Montserrat', sans-serif;
+
+        }
+        h3{
+            color:#66BFBF;
+            font-family: 'Montserrat', sans-serif;
+
+        }
+
+        p{
+            color:#66BFBF;
+            font-family: 'Montserrat', sans-serif;
+        }
+        table {
+            color:#66BFBF;
+            font-family: 'Montserrat', sans-serif;
+        }
+
+        li{
+            color:#66BFBF;
+            font-family: 'Montserrat', sans-serif;
+        }
+
+        a{
+            color:#66BFBF;
+            text-decoration: none;
+            font-family: 'Montserrat', sans-serif;
+
+        }
+
+
